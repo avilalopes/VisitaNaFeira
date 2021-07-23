@@ -1,0 +1,16 @@
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.exe
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.deps.json
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.runtimeconfig.json
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.runtimeconfig.dev.json
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.dll
+D:\git\VisitaNaFeira\bin\Debug\net5.0\ref\VisitaNaFeira.dll
+D:\git\VisitaNaFeira\bin\Debug\net5.0\VisitaNaFeira.pdb
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.csprojAssemblyReference.cache
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.AssemblyInfoInputs.cache
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.AssemblyInfo.cs
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.csproj.CoreCompileInputs.cache
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.dll
+D:\git\VisitaNaFeira\obj\Debug\net5.0\ref\VisitaNaFeira.dll
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.pdb
+D:\git\VisitaNaFeira\obj\Debug\net5.0\VisitaNaFeira.genruntimeconfig.cache
